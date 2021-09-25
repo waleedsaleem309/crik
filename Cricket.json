@@ -9,10 +9,6 @@
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "PTV Sports"
-  },
-  {
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Ten Sports"
   }
 
 ]
