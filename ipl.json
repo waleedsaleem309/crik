@@ -85,6 +85,23 @@
   "Toast" : "Please tap on Play Button"
 }
 ],
+"Ten Sports" : 
+[
+  {
+    "ChannelName" : "Source 1",
+    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
+    "EventName" : "Ten Sports",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please tap on Play Button"
+  }, 
+   {
+    "ChannelName" : "Source 2",
+    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
+    "EventName" : "Ten Sports",
+    "ImageUrl" : "file:///android_asset/img_2.png",
+    "Toast" : "Please tap on Play Button"
+  }
+],
 
   "Sky Cricket Source 1" : {
     "ChannelName" : "Source 1",
@@ -93,13 +110,7 @@
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
   },
-  "Ten Sports Source 1 " : {
-    "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
-    "EventName" : "Ten Sports",
-    "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
-  },
+ 
   
   "Sky Cricket Source 2" : {
     "ChannelName" : "Source 2",
@@ -108,13 +119,7 @@
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please unmute Channel"
   },
-  "Ten Sports Source 2" : {
-    "ChannelName" : "Source 2",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
-    "EventName" : "Ten Sports",
-    "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please tap on Play Button"
-  },
+ 
   
   "Sky Cricket Source 3" : {
     "ChannelName" : "Source 3",
