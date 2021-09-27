@@ -54,67 +54,74 @@
     "Toast" : "Please close the ad"
   }
 ],
-  "Source 1 PTV Sports" : {
-    "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://player.crik.live/ptv-sports/2",
-    "EventName" : "PTV Sports",
-    "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
-  },
-  "Source 1 Sky Cricket" : {
+
+"PTV Sports" : [  
+   {
+  "ChannelName" : "Source 1",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/2",
+  "EventName" : "PTV Sports",
+  "ImageUrl" : "file:///android_asset/img_1.png",
+  "Toast" : "Please tap on Play Button"
+},
+ {
+  "ChannelName" : "Source 2",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
+  "EventName" : "PTV Sports",
+  "ImageUrl" : "file:///android_asset/img_2.png",
+  "Toast" : "Please tap on Play Button"
+},
+ {
+  "ChannelName" : "Source 3",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
+  "EventName" : "PTV Sports",
+  "ImageUrl" : "file:///android_asset/img_1.png",
+  "Toast" : "Please tap on Play Button"
+},
+{
+  "ChannelName" : "Source 4",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/1.html",
+  "EventName" : "PTV Sports",
+  "ImageUrl" : "file:///android_asset/img_2.png",
+  "Toast" : "Please tap on Play Button"
+}
+],
+
+  "Sky Cricket Source 1" : {
     "ChannelName" : "Source 1",
     "ChannelUrl" : "http://player.crik.live/sky-cricket/1.html",
     "EventName" : "Sky Cricket",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
   },
-  "Source 1 Ten Sports" : {
+  "Ten Sports Source 1 " : {
     "ChannelName" : "Source 1",
     "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
   },
-  "Source 2 PTV Sports" : {
-    "ChannelName" : "Source 2",
-    "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
-    "EventName" : "PTV Sports",
-    "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please tap on Play Button"
-  },
-  "Source 2 Sky Cricket" : {
+  
+  "Sky Cricket Source 2" : {
     "ChannelName" : "Source 2",
     "ChannelUrl" : "https://iframe.crik.live/sky-cricket/1",
     "EventName" : "Sky Cricket",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please unmute Channel"
   },
-  "Source 2 Ten Sports" : {
+  "Ten Sports Source 2" : {
     "ChannelName" : "Source 2",
     "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please tap on Play Button"
   },
-  "Source 3 PTV Sports" : {
-    "ChannelName" : "Source 3",
-    "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
-    "EventName" : "PTV Sports",
-    "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
-  },
-  "Source 3 Sky Cricket" : {
+  
+  "Sky Cricket Source 3" : {
     "ChannelName" : "Source 3",
     "ChannelUrl" : "http://cricfree.live/update/skycricket.php",
     "EventName" : "Sky Cricket",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
-  },
-  "Source 4 PTV Sports" : {
-    "ChannelName" : "Source 4",
-    "ChannelUrl" : "http://player.crik.live/ptv-sports/1.html",
-    "EventName" : "PTV Sports",
-    "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please tap on Play Button"
   }
+  
 }
