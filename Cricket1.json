@@ -4,17 +4,17 @@
 
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "IPL"
+    "EventName" : "IPL",
     "Url" : "https://crik.live/ipl"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "PTV Sports"
+    "EventName" : "PTV Sports",
     "Url" : "https://crik.live/ptv"
   },
 {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Ten Sports"
+    "EventName" : "Ten Sports",
   "Url" : "https://crik.live/ten"
   }
 ]
