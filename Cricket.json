@@ -4,15 +4,18 @@
 
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "IPL"
+    "EventName" : "IPL",
+    "Url" : "https://crik.live/Channels.josn"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "PTV Sports"
+    "EventName" : "PTV Sports",
+    "Url" : "https://crik.live/Channels.josn"
   },
 {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Ten Sports"
+    "EventName" : "Ten Sports",
+  "Url" : "https://crik.live/Channels.josn"
   }
 ]
 }
