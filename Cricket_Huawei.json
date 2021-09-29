@@ -16,7 +16,10 @@
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Ten Sports",
   "Url" : "https://crik.live/Channels.json"
-  }
+  },
+  {
+    "HuaweiAds" : "yes"}
+  
 ]
  
 }
