@@ -17,10 +17,6 @@
     "EventName" : "Ten Sports",
   "Url" : "https://crik.live/Channels.json"
   }
-],
-  "Ads": [
-  {
-  "HuaweiAds" : "yes:
-  }
-    ]
+]
+ 
 }
