@@ -45,5 +45,35 @@
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
 }
+],
+"UEFA" : [  
+   {
+  "ChannelName" : "Source 1",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/2",
+  "EventName" : "UEFA",
+  "ImageUrl" : "file:///android_asset/img_1.png",
+  "Toast" : "Please tap on Play Button"
+},
+ {
+  "ChannelName" : "Source 2",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
+  "EventName" : "UEFA",
+  "ImageUrl" : "file:///android_asset/img_2.png",
+  "Toast" : "Please tap on Play Button"
+},
+ {
+  "ChannelName" : "Source 3",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
+  "EventName" : "UEFA",
+  "ImageUrl" : "file:///android_asset/img_1.png",
+  "Toast" : "Please tap on Play Button"
+},
+{
+  "ChannelName" : "Source 4",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/1.html",
+  "EventName" : "UEFA",
+  "ImageUrl" : "file:///android_asset/img_2.png",
+  "Toast" : "Please tap on Play Button"
+}
 ]
 }
