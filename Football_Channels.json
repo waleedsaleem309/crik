@@ -63,14 +63,35 @@
 },
  {
   "ChannelName" : "Super Sports Variety 2",
-  "ChannelUrl" : "http://cricfree.live/update/uefa3.php",
+  "ChannelUrl" : "http://iframe.crik.live/variety/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please tap on Play Button"
 },
 {
   "ChannelName" : "Super Sports Laliga",
-  "ChannelUrl" : "http://cricfree.live/update/laliga.php",
+  "ChannelUrl" : "http://iframe.crik.live/laliga/1",
+  "EventName" : "UEFA",
+  "ImageUrl" : "file:///android_asset/img_2.png",
+  "Toast" : "Please tap on Play Button"
+},
+ {
+  "ChannelName" : "ESPN 2 NL",
+  "ChannelUrl" : "http://iframe.crik.live/espn-2-nl/1",
+  "EventName" : "UEFA",
+  "ImageUrl" : "file:///android_asset/img_2.png",
+  "Toast" : "Please tap on Play Button"
+},
+ {
+  "ChannelName" : "BT Sports ESPN",
+  "ChannelUrl" : "http://iframe.crik.live/bt-espn/1",
+  "EventName" : "UEFA",
+  "ImageUrl" : "file:///android_asset/img_1.png",
+  "Toast" : "Please tap on Play Button"
+},
+{
+  "ChannelName" : "RMC Sport 1",
+  "ChannelUrl" : "http://crik.live/rmc-sports-1/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
