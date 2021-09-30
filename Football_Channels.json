@@ -45,14 +45,5 @@
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
 }
-],
-  "Sky Football" : [
-    {
-      "ChannelName" : "Source 1"
-      "ChannelUrl" : "http://cricfree.live/update/skyfootball.php",
-      "EventName" : "Sky Football",
-      "ImageUrl" : "file:///android_asset/img_2.png",
-      "Toast" : "Please tap on Play Button"
-    }
-  ]
+]
 }
