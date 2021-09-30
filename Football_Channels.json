@@ -95,6 +95,27 @@
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
+},
+ {
+  "ChannelName" : "SuperSport Variety 1",
+  "ChannelUrl" : "http://iframe.crik.live/variety-1/1",
+  "EventName" : "UEFA",
+  "ImageUrl" : "file:///android_asset/img_2.png",
+  "Toast" : "Please tap on Play Button"
+},
+ {
+  "ChannelName" : "SuperSport Variety 2",
+  "ChannelUrl" : "http://iframe.crik.live/variety-2/1",
+  "EventName" : "UEFA",
+  "ImageUrl" : "file:///android_asset/img_1.png",
+  "Toast" : "Please tap on Play Button"
+},
+{
+  "ChannelName" : "BT Sports 1",
+  "ChannelUrl" : "http://iframe.crik.live/bt-1/1",
+  "EventName" : "UEFA",
+  "ImageUrl" : "file:///android_asset/img_2.png",
+  "Toast" : "Please tap on Play Button"
 }
 ]
 }
