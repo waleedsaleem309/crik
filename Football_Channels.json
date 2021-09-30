@@ -49,14 +49,14 @@
 "UEFA" : [  
    {
   "ChannelName" : "BT Sports 2",
-  "ChannelUrl" : "http://cricfree.live/update/bt2.php",
+  "ChannelUrl" : "http://iframe.crik.live/bt-2/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please tap on Play Button"
 },
  {
   "ChannelName" : "BT Sports 3",
-  "ChannelUrl" : "http://cricfree.live/update/bt3.php",
+  "ChannelUrl" : "http://iframe.crik.live/bt-3/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
