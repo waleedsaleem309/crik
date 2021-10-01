@@ -54,6 +54,32 @@
     "Toast" : "Please close the ad"
   }
 ],
+ 
+ "Star Sports" :[
+  
+  {
+    "ChannelName" : "Source 1",
+    "ChannelUrl" : "https://hdcast123.com/embed2.php?player=desktop&v=starhindi&vw=100%&vh=520",
+    "EventName" : "Star Sports",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please close the ad",
+    "watched" : 0
+  },
+   {
+    "ChannelName" : "Source 2",
+    "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
+    "EventName" : "Star Sports",
+    "ImageUrl" : "file:///android_asset/img_2.png",
+    "Toast" : "Please tap on Play Button"
+  },
+  {
+    "ChannelName" : "Source 4",
+    "ChannelUrl" : "https://hdcast123.com/embed.php?player=desktop&v=star1in&vw=100%&vh=520",
+    "EventName" : "Star Sports",
+    "ImageUrl" : "file:///android_asset/img_2.png",
+    "Toast" : "Please close the ad"
+  }
+],
 
 "PTV Sports" : [  
    {
