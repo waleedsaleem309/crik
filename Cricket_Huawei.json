@@ -19,6 +19,19 @@
   }
   
 ],
-  "status" : "yes"
+  "Star": [
+
+  {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "Star Sports",
+    "Url" : "https://crik.live/Channels.json"
+  },
+  {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "Star Sports Hindi",
+    "Url" : "https://crik.live/Channels.json"
+  }
+  
+]
  
 }
