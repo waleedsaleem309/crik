@@ -15,8 +15,7 @@
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please tap on Play Button"
   }
-],
-  "Sky Sports Football" : 
+],"Sky Sports Football" : 
 [
   {
     "ChannelName" : "Source 1",
@@ -29,6 +28,23 @@
     "ChannelName" : "Source 2",
     "ChannelUrl" : "https://flowcablevision.com/online.php?a=145",
     "EventName" : "Sky Sports Football",
+    "ImageUrl" : "file:///android_asset/img_2.png",
+    "Toast" : "Please tap on Play Button"
+  }
+],
+"Sky Sports Main Event" : 
+[
+  {
+    "ChannelName" : "Source 1",
+    "ChannelUrl" : "https://iframe.crik.live/sky-main/1",
+    "EventName" : "Sky Sports Main Event",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please tap on Play Button"
+  }, 
+   {
+    "ChannelName" : "Source 2",
+    "ChannelUrl" : "http://cricfree.live/update/skymain.php",
+    "EventName" : "Sky Sports Main Event",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please tap on Play Button"
   }
