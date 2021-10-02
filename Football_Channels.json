@@ -1,5 +1,21 @@
 {
-"Sky Sports Football" : 
+"Ten Sports" : 
+[
+  {
+    "ChannelName" : "Source 1",
+    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
+    "EventName" : "Ten Sports",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please tap on Play Button"
+  }, 
+   {
+    "ChannelName" : "Source 2",
+    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
+    "EventName" : "Ten Sports",
+    "ImageUrl" : "file:///android_asset/img_2.png",
+    "Toast" : "Please tap on Play Button"
+  }
+],"Sky Sports Football" : 
 [
   {
     "ChannelName" : "Source 1",
@@ -33,7 +49,36 @@
     "Toast" : "Please tap on Play Button"
   }
 ],
-
+"PTV Sports" : [  
+   {
+  "ChannelName" : "Source 1",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/2",
+  "EventName" : "PTV Sports",
+  "ImageUrl" : "file:///android_asset/img_1.png",
+  "Toast" : "Please tap on Play Button"
+},
+ {
+  "ChannelName" : "Source 2",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
+  "EventName" : "PTV Sports",
+  "ImageUrl" : "file:///android_asset/img_2.png",
+  "Toast" : "Please tap on Play Button"
+},
+ {
+  "ChannelName" : "Source 3",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
+  "EventName" : "PTV Sports",
+  "ImageUrl" : "file:///android_asset/img_1.png",
+  "Toast" : "Please tap on Play Button"
+},
+{
+  "ChannelName" : "Source 4",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/1.html",
+  "EventName" : "PTV Sports",
+  "ImageUrl" : "file:///android_asset/img_2.png",
+  "Toast" : "Please tap on Play Button"
+}
+],
 "UEFA" : [  
    {
   "ChannelName" : "BT Sports 2",
@@ -79,7 +124,7 @@
 },
 {
   "ChannelName" : "RMC Sport 1",
-  "ChannelUrl" : "http://crik.live/rmc-sports-1/1",
+  "ChannelUrl" : "http://iframe.crik.live/rmc-sports-1/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
@@ -105,50 +150,5 @@
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
 }
-],"PTV Sports" : [  
-   {
-  "ChannelName" : "Source 1",
-  "ChannelUrl" : "http://player.crik.live/ptv-sports/2",
-  "EventName" : "PTV Sports",
-  "ImageUrl" : "file:///android_asset/img_1.png",
-  "Toast" : "Please tap on Play Button"
-},
- {
-  "ChannelName" : "Source 2",
-  "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
-  "EventName" : "PTV Sports",
-  "ImageUrl" : "file:///android_asset/img_2.png",
-  "Toast" : "Please tap on Play Button"
-},
- {
-  "ChannelName" : "Source 3",
-  "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
-  "EventName" : "PTV Sports",
-  "ImageUrl" : "file:///android_asset/img_1.png",
-  "Toast" : "Please tap on Play Button"
-},
-{
-  "ChannelName" : "Source 4",
-  "ChannelUrl" : "http://player.crik.live/ptv-sports/1.html",
-  "EventName" : "PTV Sports",
-  "ImageUrl" : "file:///android_asset/img_2.png",
-  "Toast" : "Please tap on Play Button"
-}
-],"Ten Sports" : 
-[
-  {
-    "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
-    "EventName" : "Ten Sports",
-    "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
-  }, 
-   {
-    "ChannelName" : "Source 2",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
-    "EventName" : "Ten Sports",
-    "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please tap on Play Button"
-  }
 ]
 }
