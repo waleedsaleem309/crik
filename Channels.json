@@ -107,6 +107,13 @@
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
+  },
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://player.crik.live/ten-sports/1",
+    "EventName" : "Ten Sports",
+    "ImageUrl" : "file:///android_asset/img_1.png",
+    "Toast" : "Please tap on Play Button"
   }
 ],
 
