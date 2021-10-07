@@ -86,7 +86,7 @@
 },
  {
   "ChannelName" : "Source 3",
-  "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
+  "ChannelUrl" : "http://iframe.crik.live/ptv-sports/1",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please tap on Play Button"
