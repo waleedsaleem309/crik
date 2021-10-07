@@ -126,16 +126,9 @@
 [
   {
     "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
+    "ChannelUrl" : "http://iframe.crik.live/ten-sports/1"
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
-  }, 
-   {
-    "ChannelName" : "Source 2",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2.html",
-    "EventName" : "Ten Sports",
-    "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please tap on Play Button"
   }
 ],
