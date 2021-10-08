@@ -1,0 +1,11 @@
+{
+
+"Cricket": [
+
+  {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "IPL",
+    "Url" : "https://crik.live/Channels-1.json"
+  }
+]
+}
