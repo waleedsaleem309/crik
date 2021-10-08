@@ -4,19 +4,18 @@
 
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "IPL",
-    "Url" : "https://crik.live/ipl.json"
+    "EventName" : "Event 1",
+    "Url" : "https://crik.live/Channels1.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "PTV Sports",
-    "Url" : "https://crik.live/ipl.json"
+    "EventName" : "Event 2",
+    "Url" : "https://crik.live/Channels1.json"
   },
 {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Ten Sports",
-  "Url" : "https://crik.live/ipl.json"
+    "EventName" : "Event 3",
+    "Url" : "https://crik.live/Channels1.json"
   }
-],
-  "Ads" : "true" 
+]
 }
