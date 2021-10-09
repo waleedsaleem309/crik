@@ -24,13 +24,13 @@
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Channel 1",
     "Id" : "PTV Sports",
-    "Url" : "https://crik.live/Cricket-Channels.json"
+    "Url" : "https://crik.live/Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Channel 2",
     "Id" : "Ten Sports",
-    "Url" : "https://crik.live/Cricket-Channels.json"
+    "Url" : "https://crik.live/Channels.json"
   }
 ]
 }
