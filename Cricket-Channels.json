@@ -71,28 +71,28 @@
  
 "Channel 1" : [  
    {
-  "ChannelName" : "Source 1",
+  "ChannelName" : "Source",
   "ChannelUrl" : "http://player.crik.live/ptv-sports/1",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please tap on Play Button"
 },
  {
-  "ChannelName" : "Source 2",
+  "ChannelName" : "Source",
   "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
 },
  {
-  "ChannelName" : "Source 3",
+  "ChannelName" : "Source",
   "ChannelUrl" : "http://iframe.crik.live/ptv-sports/1",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please tap on Play Button"
 },
 {
-  "ChannelName" : "Source 4",
+  "ChannelName" : "Source",
   "ChannelUrl" : "http://player.crik.live/ptv-sports/4.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_2.png",
@@ -102,7 +102,7 @@
 "Channel 2" : 
 [
   {
-    "ChannelName" : "Source 1",
+    "ChannelName" : "Source",
     "ChannelUrl" : "http://iframe.crik.live/ten-sports/1",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
