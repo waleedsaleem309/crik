@@ -38,7 +38,6 @@
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "PTV Sports",
-    "PlayName" : "Event ",
     "Id" : "PTV Sports",
     "Url" : "https://crik.live/Channels.json"
   },
