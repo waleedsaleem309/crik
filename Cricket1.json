@@ -5,17 +5,17 @@
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Event 1",
-    "Url" : "https://crik.live/Channels1.json"
+    "Url" : "https://crik.live/Cricket-Events.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Event 2",
-    "Url" : "https://crik.live/Channels1.json"
+    "Url" : "https://crik.live/Cricket-Events.json"
   },
 {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Event 3",
-    "Url" : "https://crik.live/Channels1.json"
+    "Url" : "https://crik.live/Cricket-Events.json"
   }
 ],
   "Pak Cricket": [
