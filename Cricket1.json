@@ -22,18 +22,13 @@
 
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Event 1",
-    "Url" : "https://crik.live/Channels1.json"
+    "EventName" : "Channel 1",
+    "Url" : "https://crik.live/Cricket-Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Event 2",
-    "Url" : "https://crik.live/Channels1.json"
-  },
-{
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Event 3",
-    "Url" : "https://crik.live/Channels1.json"
+    "EventName" : "Channel 2",
+    "Url" : "https://crik.live/Cricket-Channels.json"
   }
 ]
 }
