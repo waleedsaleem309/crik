@@ -38,6 +38,7 @@
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Star Sports",
+    "PlayName" : "Channel ",
     "Url" : "https://crik.live/Channels.json"
   },
   {
