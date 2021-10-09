@@ -22,7 +22,7 @@
 
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Channel 1",
+   
     "Id" : "PTV Sports",
     "Url" : "https://crik.live/Channels.json"
   },
