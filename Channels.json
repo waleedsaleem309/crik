@@ -72,7 +72,7 @@
 "PTV Sports" : [  
    {
   "ChannelName" : "Source 1",
-  "ChannelUrl" : "http://player.crik.live/ptv-sports/1",
+  "ChannelUrl" : "http://iframe.crik.live/ptv-sports/1",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please tap on Play Button"
@@ -86,7 +86,7 @@
 },
  {
   "ChannelName" : "Source 3",
-  "ChannelUrl" : "http://iframe.crik.live/ptv-sports/1",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/1",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please tap on Play Button"
