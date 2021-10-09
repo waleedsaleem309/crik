@@ -69,7 +69,7 @@
 ],
  
  
-"Event 2" : [  
+"Channel 1" : [  
    {
   "ChannelName" : "Source 1",
   "ChannelUrl" : "http://player.crik.live/ptv-sports/1",
@@ -99,7 +99,7 @@
   "Toast" : "Please tap on Play Button"
 }
 ],
-"Event 3" : 
+"Channel 2" : 
 [
   {
     "ChannelName" : "Source 1",
