@@ -57,6 +57,15 @@
     "Url" : "https://crik.live/Channels.json"
   }
   
+],
+  "T20": [
+
+  {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "T20 World Cup",
+    "Url" : "https://crik.live/Channels.json"
+  }
+  
 ]
  
 }
