@@ -120,15 +120,8 @@
 [
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "http://iframe.crik.live/ten-sports/1",
-    "EventName" : "Ten Sports",
-    "ImageUrl" : "file:///android_asset/Ten-Sports.jpg",
-    "Toast" : "Please tap on Play Button"
-  },
-  {
-    "ChannelName" : "Source ",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2",
-    "EventName" : "Ten Sports",
+    "ChannelUrl" : "http://iframe.crik.live/sky-cricket/1",
+    "EventName" : "Sky Cricket",
     "ImageUrl" : "file:///android_asset/Ten-Sports.jpg",
     "Toast" : "Please tap on Play Button"
   }
@@ -136,7 +129,7 @@
 
   "Sky Cricket Source 1" : {
     "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://player.crik.live/sky-cricket/1.html",
+    "ChannelUrl" : "http://iframe.crik.live/sky-cricket/2.html",
     "EventName" : "Sky Cricket",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
