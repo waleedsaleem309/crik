@@ -33,6 +33,15 @@
   }
   
 ],
+   "PTV Sports": [
+
+  {
+    "EventImage" : "file:///android_asset/log.png",
+    "EventName" : "PTV Sports",
+    "Url" : "https://crik.live/Channels.json"
+  }
+  
+],
   "Pak Cricket": [
 
   {
