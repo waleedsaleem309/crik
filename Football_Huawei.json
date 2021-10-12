@@ -10,11 +10,6 @@
   },
     {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Sky Sports Main Event",
-  "Url" : "https://crik.live/Football_Channels.json"
-  },
-    {
-    "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Sky Sports Football",
   "Url" : "https://crik.live/Football_Channels.json"
   },
