@@ -9,13 +9,8 @@
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "PTV Sports",
+    "EventName" : "T20 World Cup",
     "Url" : "https://crik.live/Channels.json"
-  },
-{
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Ten Sports",
-  "Url" : "https://crik.live/Channels.json"
   }
   
 ],
