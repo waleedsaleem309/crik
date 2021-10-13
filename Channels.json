@@ -88,7 +88,7 @@
 "Ten Sports" : 
 [
   {
-    "ChannelName" : "Source 1",
+    "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/ten-sports/1",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
@@ -108,16 +108,30 @@
   "ChannelName" : "Source ",
   "ChannelUrl" : "http://iframe.crik.live/ptv-sports/1",
   "EventName" : "PTV Sports",
-  "ImageUrl" : "http://crik.live/pics/PTV-Sports.jpg",
+  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
   "Toast" : "Please tap on Play Button"
 },
  {
   "ChannelName" : "Source ",
   "ChannelUrl" : "http://player.crik.live/ptv-sports/1",
   "EventName" : "PTV Sports",
-  "ImageUrl" : "http://crik.live/pics/PTV-Sports.jpg",
+  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
   "Toast" : "Please tap on Play Button"
-}
+},
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://iframe.crik.live/ten-sports/1",
+    "EventName" : "Ten Sports",
+    "ImageUrl" : "https://crik.live/pics/Ten-Sports.jpg",
+    "Toast" : "Please tap on Play Button"
+  },
+  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "http://player.crik.live/ten-sports/2",
+    "EventName" : "Ten Sports",
+    "ImageUrl" : "https://crik.live/pics/Ten-Sports.jpg",
+    "Toast" : "Please tap on Play Button"
+  }
 ],
 
   "Sky Cricket Source 1" : {
