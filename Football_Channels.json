@@ -19,14 +19,14 @@
 [
   {
     "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://iframe.crik.live/sky-football/2.html",
+    "ChannelUrl" : "http://iframe.crik.live/sky-football/1.html",
     "EventName" : "Sky Sports Football",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
   }, 
    {
     "ChannelName" : "Source 2",
-    "ChannelUrl" : "https://flowcablevision.com/online.php?a=145",
+    "ChannelUrl" : "http://iframe.crik.live/sky-football/2.html",
     "EventName" : "Sky Sports Football",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please tap on Play Button"
@@ -94,13 +94,6 @@
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
 },
- {
-  "ChannelName" : "Super Sports Variety 2",
-  "ChannelUrl" : "http://iframe.crik.live/variety-1/1",
-  "EventName" : "UEFA",
-  "ImageUrl" : "file:///android_asset/img_1.png",
-  "Toast" : "Please tap on Play Button"
-},
 {
   "ChannelName" : "Super Sports Laliga",
   "ChannelUrl" : "http://iframe.crik.live/laliga/1",
@@ -108,21 +101,6 @@
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
 },
- {
-  "ChannelName" : "ESPN 2 NL",
-  "ChannelUrl" : "http://iframe.crik.live/espn-2-nl/1",
-  "EventName" : "UEFA",
-  "ImageUrl" : "file:///android_asset/img_2.png",
-  "Toast" : "Please tap on Play Button"
-},
- {
-  "ChannelName" : "BT Sports ESPN",
-  "ChannelUrl" : "http://iframe.crik.live/bt-espn/1",
-  "EventName" : "UEFA",
-  "ImageUrl" : "file:///android_asset/img_1.png",
-  "Toast" : "Please tap on Play Button"
-},
- 
 {
   "ChannelName" : "BT Sports 1",
   "ChannelUrl" : "http://iframe.crik.live/bt-1/1",
