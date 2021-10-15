@@ -22,14 +22,14 @@
     "ChannelUrl" : "http://iframe.crik.live/sky-football/1.html",
     "EventName" : "Sky Sports Football",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
+    "Toast" : "Please unmute Channel"
   }, 
    {
     "ChannelName" : "Source 2",
     "ChannelUrl" : "http://iframe.crik.live/sky-football/2.html",
     "EventName" : "Sky Sports Football",
     "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please tap on Play Button"
+    "Toast" : "Please unmute Channel"
   }
 ],
 "Sky Sports Main Event" : 
@@ -39,14 +39,14 @@
     "ChannelUrl" : "https://iframe.crik.live/sky-main/1",
     "EventName" : "Sky Sports Main Event",
     "ImageUrl" : "file:///android_asset/img_1.png",
-    "Toast" : "Please tap on Play Button"
+    "Toast" : "Please unmute Channel"
   }, 
    {
     "ChannelName" : "Source 2",
     "ChannelUrl" : "http://cricfree.live/update/skymain.php",
     "EventName" : "Sky Sports Main Event",
     "ImageUrl" : "file:///android_asset/img_2.png",
-    "Toast" : "Please tap on Play Button"
+    "Toast" : "Please unmute Channel"
   }
 ],
 "PTV Sports" : [  
@@ -55,14 +55,14 @@
   "ChannelUrl" : "http://player.crik.live/ptv-sports/2",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
-  "Toast" : "Please tap on Play Button"
+  "Toast" : "Please unmute Channel"
 },
  {
   "ChannelName" : "Source 2",
   "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_2.png",
-  "Toast" : "Please tap on Play Button"
+  "Toast" : "Please unmute Channel"
 },
  {
   "ChannelName" : "Source 3",
@@ -85,28 +85,28 @@
   "ChannelUrl" : "http://iframe.crik.live/bt-2/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_1.png",
-  "Toast" : "Please tap on Play Button"
+  "Toast" : "Please unmute Channel"
 },
  {
   "ChannelName" : "BT Sports 3",
   "ChannelUrl" : "http://iframe.crik.live/bt-3/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_2.png",
-  "Toast" : "Please tap on Play Button"
+  "Toast" : "Please unmute Channel"
 },
 {
   "ChannelName" : "Super Sports Laliga",
   "ChannelUrl" : "http://iframe.crik.live/laliga/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_2.png",
-  "Toast" : "Please tap on Play Button"
+  "Toast" : "Please unmute Channel"
 },
 {
   "ChannelName" : "BT Sports 1",
   "ChannelUrl" : "http://iframe.crik.live/bt-1/1",
   "EventName" : "UEFA",
   "ImageUrl" : "file:///android_asset/img_2.png",
-  "Toast" : "Please tap on Play Button"
+  "Toast" : "Please unmute Channel"
 }
 ]
 }
