@@ -131,6 +131,13 @@
     "ImageUrl" : "http://crik.live/pics/Star-Sports.jpg",
     "Toast" : "Please tap on Play Button"
   },
+   {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/2",
+    "EventName" : "Sky Cricket",
+    "ImageUrl" : "https://crik.live/pics/sky-cricket.jpg",
+    "Toast" : "Please tap on Play Button"
+  },
  {
   "ChannelName" : "Source ",
   "ChannelUrl" : "http://player.crik.live/ptv-sports/1",
