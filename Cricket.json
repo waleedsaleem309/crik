@@ -8,7 +8,12 @@
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "IPL",
+    "EventName" : "PTV Sports",
+    "Url" : "https://crik.live/Channels.json"
+  },
+  {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "Ten Sports",
     "Url" : "https://crik.live/Channels.json"
   }
   
@@ -17,7 +22,7 @@
   "Star": [
 
     {
-    "EventImage" : "file:///android_asset/T20.png",
+    "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
     "Url" : "https://crik.live/Channels.json"
   },
@@ -50,7 +55,7 @@
   "Pak Cricket": [
 
     {
-    "EventImage" : "file:///android_asset/T20.png",
+    "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
     "Url" : "https://crik.live/Channels.json"
   },
@@ -85,7 +90,7 @@
   "T20": [
 
   {
-    "EventImage" : "file:///android_asset/T20.png",
+    "EventImage" : "http://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
     "Url" : "https://crik.live/Channels.json"
   }
