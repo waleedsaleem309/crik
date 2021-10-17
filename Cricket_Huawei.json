@@ -1,7 +1,11 @@
 {
 
 "Cricket": [
-
+{
+    "EventImage" : "http://crik.live/pics/t20.png",
+    "EventName" : "T20 World Cup",
+    "Url" : "https://crik.live/Channels.json"
+  },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "IPL",
