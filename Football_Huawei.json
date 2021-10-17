@@ -21,6 +21,11 @@
     "EventName" : "BT Sports 2",
   "Url" : "https://bighra.tk/Football_Channels.json"
   },
+     {
+    "EventImage" : "https://crik.live/pics/bt-3.png",
+    "EventName" : "BT Sports 3",
+  "Url" : "https://bighra.tk/Football_Channels.json"
+  },
     {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Ten Sports",
