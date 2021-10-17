@@ -3,7 +3,7 @@
   
 "PTV": [
       {
-    "EventImage" : "file:///android_asset/T20.png",
+    "EventImage" : "https://crik.live/pics/t20.png",
     "EventName" : "T20 World Cup",
     "Url" : "https://crik.live/Channels.json"
   },
