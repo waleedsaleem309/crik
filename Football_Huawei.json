@@ -1,15 +1,13 @@
 {
 
 "Football": [
-
-
     {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "UEFA",
   "Url" : "https://bighra.tk/Football_Channels.json"
   },
     {
-    "EventImage" : "file:///android_asset/cricket.png",
+    "EventImage" : "https://crik.live/pics/sky-football.jpg",
     "EventName" : "Sky Sports Football",
   "Url" : "https://bighra.tk/Football_Channels.json"
   },
