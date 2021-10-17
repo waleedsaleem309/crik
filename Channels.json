@@ -122,13 +122,13 @@
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://iframe.crik.live/star-1/1",
     "EventName" : "Star Sports Hindi",
-    "ImageUrl" : "https://crik.live/pics/Ten-Sports.jpg",
+    "ImageUrl" : "https://raw.githubusercontent.com/waleedsaleem309/crik/main/pics/star-hindi.jpg",
     "Toast" : "Please tap on Play Button"
   },  {
     "ChannelName" : "Source ",
     "ChannelUrl" : "https://iframe.crik.live/star-sports/1",
     "EventName" : "Star Sports 1",
-    "ImageUrl" : "https://crik.live/pics/Ten-Sports.jpg",
+    "ImageUrl" : "http://crik.live/pics/Star-Sports.jpg",
     "Toast" : "Please tap on Play Button"
   },
  {
