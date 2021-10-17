@@ -111,13 +111,6 @@
   "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
   "Toast" : "Please tap on Play Button"
 },
- {
-  "ChannelName" : "Source ",
-  "ChannelUrl" : "http://player.crik.live/ptv-sports/1",
-  "EventName" : "PTV Sports",
-  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
-  "Toast" : "Please tap on Play Button"
-},
   {
     "ChannelName" : "Source ",
     "ChannelUrl" : "http://iframe.crik.live/ten-sports/1",
@@ -127,11 +120,24 @@
   },
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2",
-    "EventName" : "Ten Sports",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/1",
+    "EventName" : "Star Sports Hindi",
     "ImageUrl" : "https://crik.live/pics/Ten-Sports.jpg",
     "Toast" : "Please tap on Play Button"
-  }
+  },  {
+    "ChannelName" : "Source ",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/1",
+    "EventName" : "Star Sports 1",
+    "ImageUrl" : "https://crik.live/pics/Ten-Sports.jpg",
+    "Toast" : "Please tap on Play Button"
+  },
+ {
+  "ChannelName" : "Source ",
+  "ChannelUrl" : "http://player.crik.live/ptv-sports/1",
+  "EventName" : "PTV Sports",
+  "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
+  "Toast" : "Please tap on Play Button"
+}
 ],
 
   "Sky Cricket Source 1" : {
