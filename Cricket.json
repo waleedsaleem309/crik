@@ -16,8 +16,27 @@
     "EventName" : "Ten Sports",
     "Url" : "https://bighra.tk/Channels.json"
   }
-  
-  
+],
+    "Channels": [
+{
+    "EventImage" : "http://crik.live/pics/t20.png",
+    "EventName" : "T20 World Cup",
+    "Url" : "https://bighra.tk/Channels.json"
+  }
+],
+        "Events": [
+{
+    "EventImage" : "http://crik.live/pics/t20.png",
+    "EventName" : "T20 World Cup",
+    "Url" : "https://bighra.tk/Channels.json"
+  }
+],
+            "HighLights": [
+{
+    "EventImage" : "http://crik.live/pics/t20.png",
+    "EventName" : "T20 World Cup",
+    "Url" : "https://bighra.tk/Channels.json"
+  }
 ],
   "Star": [
 
