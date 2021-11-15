@@ -12,6 +12,13 @@
   "Url" : "https://bighra.tk/Football_Channels.json"
   }
         ],
+         "FIFA": [
+    {
+    "EventImage" : "https://crik.live/pics/sky-football.jpg",
+    "EventName" : "BT Sports 1",
+  "Url" : "https://bighra.tk/Football_Channels.json"
+  }
+        ],
     
     "Channels": [
     {
