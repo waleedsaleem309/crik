@@ -26,5 +26,17 @@
     "EventName" : "Ten Sports",
   "Url" : "https://bighra.tk/Channels.json"
   }
-]
+],
+    "Events": [
+    {
+    "EventImage" : "https://crik.live/pics/sky-football.jpg",
+    "EventName" : "Sky Football",
+  "Url" : "https://bighra.tk/Football_Channels.json"
+  }, 
+    {
+    "EventImage" : "https://crik.live/pics/bt-1.png",
+    "EventName" : "BT Sports 1",
+  "Url" : "https://bighra.tk/Football_Channels.json"
+  }
+        ]
 }
