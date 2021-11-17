@@ -40,11 +40,6 @@
 ],
   "Star": [
 
-    {
-    "EventImage" : "http://crik.live/pics/t20.png",
-    "EventName" : "T20 World Cup",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Star Sports",
@@ -59,11 +54,7 @@
 ],
    "PTV Sports": [
 
-    {
-    "EventImage" : "http://crik.live/pics/t20.png",
-    "EventName" : "T20 World Cup",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
+   
   {
     "EventImage" : "file:///android_asset/log.png",
     "EventName" : "PTV Sports",
@@ -93,12 +84,6 @@
   
 ],
   "Ten Sports": [
-
-    {
-    "EventImage" : "http://crik.live/pics/t20.png",
-    "EventName" : "T20 World Cup",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Ten Sports",
