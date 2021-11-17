@@ -2,8 +2,8 @@
 
 "Cricket": [
 {
-    "EventImage" : "http://crik.live/pics/t20.png",
-    "EventName" : "T20 World Cup",
+    "EventImage" : "http://crik.live/pics/IND-VS-NZ.jpg",
+    "EventName" : "India vs New Zealand",
     "Url" : "https://bighra.tk/Channels.json"
   },
   {
@@ -26,8 +26,8 @@
 ],
         "Events": [
 {
-    "EventImage" : "http://crik.live/pics/t20.png",
-    "EventName" : "T20 World Cup",
+    "EventImage" : "http://crik.live/pics/IND-VS-NZ.jpg",
+    "EventName" : "India vs New Zealand",
     "Url" : "https://bighra.tk/Channels.json"
   }
 ],
