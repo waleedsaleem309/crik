@@ -38,13 +38,6 @@
     "EventName" : "Star Sports 1",
     "ImageUrl" : "http://crik.live/pics/Star-Sports.jpg",
     "Toast" : "Please Double Tap on Player for Full Screen"
-  },
-    {
-    "ChannelName" : "Willow Cricket ",
-    "ChannelUrl" : "http://iframe.crik.live/willow/a",
-    "EventName" : "Willow Cricket",
-    "ImageUrl" : "https://crik.live/pics/Willow.jpg",
-    "Toast" : "Please Double Tap 👆 on Play for Full Screen"
   }
 ],
  
