@@ -11,6 +11,11 @@
     "EventName" : "India vs New Zealand",
     "Url" : "https://bighra.tk/Channels.json"
   },
+      {
+    "EventImage" : "http://crik.live/pics/a-sports.jpg",
+    "EventName" : "A Sports",
+    "Url" : "https://bighra.tk/Channels.json"
+  },
   {
     "EventImage" : "http://crik.live/pics/PTV-Sports.jpg",
     "EventName" : "PTV Sports",
