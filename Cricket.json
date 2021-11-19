@@ -1,5 +1,4 @@
 {
-
 "Cricket": [
     {
     "EventImage" : "https://crik.live/pics/pk-vs-ban.jpg",
@@ -69,8 +68,6 @@
   
 ],
    "PTV Sports": [
-
-   
   {
     "EventImage" : "file:///android_asset/log.png",
     "EventName" : "PTV Sports",
@@ -78,27 +75,7 @@
   }
   
 ],
-  "Pak Cricket": [
 
-    {
-    "EventImage" : "http://crik.live/pics/t20.png",
-    "EventName" : "T20 World Cup",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
-  {
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "PTV Sports",
-    "Id" : "PTV Sports",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
-  {
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Ten Sports",
-    "Id" : "Ten Sports",
-    "Url" : "https://bighra.tk/Channels.json"
-  }
-  
-],
   "Ten Sports": [
   {
     "EventImage" : "file:///android_asset/cricket.png",
