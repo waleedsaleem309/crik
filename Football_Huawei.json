@@ -64,6 +64,13 @@
   "Url" : "https://bighra.tk/Football_Channels.json"
   }
         ],
+         "Bundesliga": [
+    {
+    "EventImage" : "http://crik.live/pics/fifa.png",
+    "EventName" : "FIFA World Cup",
+  "Url" : "https://bighra.tk/Football_Channels.json"
+  }
+        ],
     
     "Channels": [
     {
