@@ -39,6 +39,11 @@
   }
 ],
         "Events": [
+               {
+    "EventImage" : "https://crik.live/pics/t10.jpg",
+    "EventName" : "T10 League",
+    "Url" : "https://bighra.tk/Channels.json"
+  },
                    {
     "EventImage" : "http://crik.live/pics/pk-vs-ban.jpg",
     "EventName" : "Pak vs Ban",
