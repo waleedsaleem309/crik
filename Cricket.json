@@ -10,16 +10,7 @@
     "EventName" : "T10 League",
     "Url" : "https://bighra.tk/Channels.json"
   },
-    {
-    "EventImage" : "https://crik.live/pics/pk-vs-ban.jpg",
-    "EventName" : "Pak vs Ban",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
-{
-    "EventImage" : "http://crik.live/pics/IND-VS-NZ.jpg",
-    "EventName" : "India vs New Zealand",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
+    
       {
     "EventImage" : "http://crik.live/pics/a-sports.jpg",
     "EventName" : "A Sports",
@@ -54,17 +45,6 @@
     "EventName" : "T10 League",
     "Url" : "https://bighra.tk/Channels.json"
   },
-                   {
-    "EventImage" : "http://crik.live/pics/pk-vs-ban.jpg",
-    "EventName" : "Pak vs Ban",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
-{
-    "EventImage" : "http://crik.live/pics/IND-VS-NZ.jpg",
-    "EventName" : "India vs New Zealand",
-    "Url" : "https://bighra.tk/Channels.json"
-  }
-     
 ],
     "T10 League": [
 {
