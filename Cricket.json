@@ -1,7 +1,12 @@
 {
 "Cricket": [
      {
-    "EventImage" : "https://crik.live/pics/t10.jpg",
+    "EventImage" : "https://assets.crik.live/T10/11th.jpg",
+    "EventName" : "T10 League",
+    "Url" : "https://bighra.tk/Channels.json"
+  },
+          {
+    "EventImage" : "https://assets.crik.live/T10/12th.jpg",
     "EventName" : "T10 League",
     "Url" : "https://bighra.tk/Channels.json"
   },
@@ -39,8 +44,13 @@
   }
 ],
         "Events": [
-               {
-    "EventImage" : "https://crik.live/pics/t10.jpg",
+     {
+    "EventImage" : "https://assets.crik.live/T10/11th.jpg",
+    "EventName" : "T10 League",
+    "Url" : "https://bighra.tk/Channels.json"
+  },
+          {
+    "EventImage" : "https://assets.crik.live/T10/12th.jpg",
     "EventName" : "T10 League",
     "Url" : "https://bighra.tk/Channels.json"
   },
