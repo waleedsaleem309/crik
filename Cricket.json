@@ -101,6 +101,13 @@
     "Url" : "https://bighra.tk/Channels.json"
   }
 ],
+            "PSL": [
+  {
+    "EventImage" : "file:///android_asset/log.png",
+    "EventName" : "PTV Sports",
+    "Url" : "https://bighra.tk/Channels.json"
+  }
+],
      "A Sports": [
   {
     "EventImage" : "http://crik.live/pics/a-sports.jpg",
