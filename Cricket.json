@@ -1,4 +1,11 @@
 {
+             "BBL": [
+{
+    "EventImage" : "http://crik.live/pics/t20.png",
+    "EventName" : "BBL",
+    "Url" : "https://bighra.tk/Channels.json"
+  }
+],
 "Cricket": [
           {
     "EventImage" : "https://crik.live/pics/pk-vs-ban.jpg",
