@@ -17,7 +17,11 @@
     "EventName" : "BBL Live",
     "Url" : "https://bighra.tk/Channels.json"
   },
-    
+        {
+    "EventImage" : "https://assets.crik.live/Events/lpl.png",
+    "EventName" : "Lanka Premier League",
+    "Url" : "https://bighra.tk/Channels.json"
+  },
       {
     "EventImage" : "http://crik.live/pics/a-sports.jpg",
     "EventName" : "A Sports",
@@ -47,10 +51,14 @@
     "EventName" : "PAK vs WI",
     "Url" : "https://bighra.tk/Channels.json"
   },
-
           {
     "EventImage" : "https://assets.crik.live/Events/bbl.jpg",
     "EventName" : "BBL Live",
+    "Url" : "https://bighra.tk/Channels.json"
+  },
+              {
+    "EventImage" : "https://assets.crik.live/Events/lpl.png",
+    "EventName" : "Lanka Premier League",
     "Url" : "https://bighra.tk/Channels.json"
   }
 ],
