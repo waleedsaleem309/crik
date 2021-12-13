@@ -8,23 +8,14 @@
 ],
 "Cricket": [
           {
-    "EventImage" : "https://crik.live/pics/pk-vs-ban.jpg",
-    "EventName" : "Pak vs Ban",
+    "EventImage" : "https://assets.crik.live/Events/pk-wi.jpg",
+    "EventName" : "PAK vs WI",
     "Url" : "https://bighra.tk/Channels.json"
   },
         {
-    "EventImage" : "http://crik.live/pics/IND-VS-NZ.jpg",
-    "EventName" : "India vs New Zealand",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
-     {
-    "EventImage" : "https://assets.crik.live/T10/25th.jpg",
-    "EventName" : "T10 League",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
           {
-    "EventImage" : "https://assets.crik.live/T10/26th.jpg",
-    "EventName" : "T10 League",
+    "EventImage" : "https://assets.crik.live/Events/bbl.jpg",
+    "EventName" : "BBL Live",
     "Url" : "https://bighra.tk/Channels.json"
   },
     
@@ -53,23 +44,14 @@
 ],
         "Events": [
                          {
-    "EventImage" : "https://crik.live/pics/pk-vs-ban.jpg",
-    "EventName" : "Pak vs Ban",
+    "EventImage" : "https://assets.crik.live/Events/pk-wi.jpg",
+    "EventName" : "PAK vs WI",
     "Url" : "https://bighra.tk/Channels.json"
   },
-        {
-    "EventImage" : "http://crik.live/pics/IND-VS-NZ.jpg",
-    "EventName" : "India vs New Zealand",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
-     {
-    "EventImage" : "https://assets.crik.live/T10/25th.jpg",
-    "EventName" : "T10 League",
-    "Url" : "https://bighra.tk/Channels.json"
-  },
+
           {
-    "EventImage" : "https://assets.crik.live/T10/26st.jpg",
-    "EventName" : "T10 League",
+    "EventImage" : "https://assets.crik.live/Events/bbl.jpg",
+    "EventName" : "BBL Live",
     "Url" : "https://bighra.tk/Channels.json"
   }
 ],
