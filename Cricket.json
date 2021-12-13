@@ -83,6 +83,11 @@
   
 ],
    "PTV Sports": [
+            {
+    "EventImage" : "https://assets.crik.live/Events/pk-wi.jpg",
+    "EventName" : "PAK vs WI",
+    "Url" : "https://bighra.tk/Channels.json"
+  },
   {
     "EventImage" : "file:///android_asset/log.png",
     "EventName" : "PTV Sports",
@@ -105,6 +110,11 @@
 ],
 
   "Ten Sports": [
+           {
+    "EventImage" : "https://assets.crik.live/Events/pk-wi.jpg",
+    "EventName" : "PAK vs WI",
+    "Url" : "https://bighra.tk/Channels.json"
+  },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Ten Sports",
