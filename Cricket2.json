@@ -27,8 +27,8 @@
     "Url" : "https://crik.live/Cricket-Events.json"
     "startDate": "2021-12-14",
      "startTime": "12:00AM"
-    "endDate": "2021-12-20",
-    "endTime": "12:00AM"
+    "endDate": "2021-12-14",
+    "endTime": "12:00PM"
   }
 ],
   "Pak Cricket": [
@@ -50,8 +50,8 @@
     "Url" : "https://crik.live/Channels.json"
       "startDate": "2021-12-14",
      "startTime": "12:00AM"
-    "endDate": "2021-12-20",
-    "endTime": "12:00AM"
+    "endDate": "2021-12-14",
+    "endTime": "12:00PM"
   }
 ]
 }
