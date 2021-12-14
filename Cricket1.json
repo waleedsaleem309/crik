@@ -5,17 +5,29 @@
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Event 1",
-    "Url" : "https://crik.live/Cricket-Events.json"
+    "Url" : "https://crik.live/Cricket-Events.json",
+     "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Event 2",
     "Url" : "https://crik.live/Cricket-Events.json"
+      "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
   },
 {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Event 3",
     "Url" : "https://crik.live/Cricket-Events.json"
+    "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
   }
 ],
   "Pak Cricket": [
@@ -25,12 +37,20 @@
    
     "Id" : "PTV Sports",
     "Url" : "https://crik.live/Channels.json"
+      "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Channel 2",
     "Id" : "Ten Sports",
     "Url" : "https://crik.live/Channels.json"
+      "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
   }
 ]
 }
