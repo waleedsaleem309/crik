@@ -1,58 +1,511 @@
 [
   {
-
-"Cricket": [
-
-  {
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Event 1",
-    "Url" : "https://crik.live/Cricket-Events.json",
-     "startDate": "2021-12-14",
+    "events": [
+      {
+        "endTimeStamp": 0,
+        "name": "Event0",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
      "startTime": "12:00AM"
     "endDate": "2021-12-20",
     "endTime": "12:00AM"
-  },
-  {
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Event 2",
-    "Url" : "https://crik.live/Cricket-Events.json"
-      "startDate": "2021-12-14",
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event1",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
      "startTime": "12:00AM"
     "endDate": "2021-12-20",
     "endTime": "12:00AM"
-  },
-{
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Event 3",
-    "Url" : "https://crik.live/Cricket-Events.json"
-    "startDate": "2021-12-14",
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event2",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
      "startTime": "12:00AM"
-    "endDate": "2021-12-14",
-    "endTime": "12:00PM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event3",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event4",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event5",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event6",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event7",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event8",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event9",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      }
+    ],
+    "title": "Cricket0"
+  },
+  {
+    "events": [
+      {
+        "endTimeStamp": 0,
+        "name": "Event0",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event1",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event2",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event3",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event4",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event5",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event6",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      }
+    ],
+    "title": "Cricket1"
+  },
+  {
+    "events": [
+      {
+        "endTimeStamp": 0,
+        "name": "Event3",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event4",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event5",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event6",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event7",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event8",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event9",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      }
+    ],
+    "title": "Cricket2"
+  },
+  {
+    "events": [
+      {
+        "endTimeStamp": 0,
+        "name": "Event0",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event1",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event2",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event3",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event4",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event5",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event6",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event7",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event8",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event9",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      }
+    ],
+    "title": "Cricket3"
+  },
+  {
+    "events": [
+      {
+        "endTimeStamp": 0,
+        "name": "Event0",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event1",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event2",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event3",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event4",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event5",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event6",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event7",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event8",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      },
+      {
+        "endTimeStamp": 0,
+        "name": "Event9",
+        "nextUrl": "",
+        "startTimeStamp": 0,
+        "url": "",
+        "startDate": "2021-12-14",
+     "startTime": "12:00AM"
+    "endDate": "2021-12-20",
+    "endTime": "12:00AM"
+      }
+    ],
+    "title": "Cricket4"
   }
-],
-  "Pak Cricket": [
-
-  {
-    "EventImage" : "file:///android_asset/cricket.png",
-   
-    "Id" : "PTV Sports",
-    "Url" : "https://crik.live/Channels.json"
-      "startDate": "2021-12-14",
-     "startTime": "12:00AM"
-    "endDate": "2021-12-20",
-    "endTime": "12:00AM"
-  },
-  {
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Channel 2",
-    "Id" : "Ten Sports",
-    "Url" : "https://crik.live/Channels.json"
-      "startDate": "2021-12-14",
-     "startTime": "12:00AM"
-    "endDate": "2021-12-14",
-    "endTime": "12:00PM"
-  }
-]
-}
 ]
