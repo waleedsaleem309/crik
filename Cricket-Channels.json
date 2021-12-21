@@ -5,14 +5,14 @@
 
    {
     "ChannelName" : "A Sports ",
-    "ChannelUrl" : "http://iframe.crik.live/a-sports/a",
+    "ChannelUrl" : "https://iframe.crik.live/a-sports/a",
     "EventName" : "A Sports",
     "ImageUrl" : "https://crik.live/pics/a-sports.jpg",
      "Toast" : "Please Double Tap 👆 on Play for Full Screen"
   },
        {
   "ChannelName" : "PTV Sports ",
-  "ChannelUrl" : "http://iframe.crik.live/ptv-sports/a.html",
+  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/a.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "https://crik.live/pics/PTV-Sports.jpg",
   "Toast" : "Please Double Tap 👆 on Player for Full Screen"
@@ -20,7 +20,7 @@
    
        {
   "ChannelName" : "Ten Sports ",
-  "ChannelUrl" : "http://iframe.crik.live/ten-sports/a.html",
+  "ChannelUrl" : "https://iframe.crik.live/ten-sports/a.html",
   "EventName" : "Ten Sports",
   "ImageUrl" : "https://crik.live/pics/Ten-Sports.jpg",
   "Toast" : "Please Double Tap 👆 on Player for Full Screen"
@@ -28,7 +28,7 @@
 
   {
     "ChannelName" : "Star Sports Hindi ",
-    "ChannelUrl" : "http://iframe.crik.live/star-1/a.html",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/a.html",
     "EventName" : "Star Sports Hindi",
     "ImageUrl" : "http://crik.live/pics/star-hindi.jpg",
     "Toast" : "Please Double Tap 👆 on Player for Full Screen"
@@ -45,7 +45,7 @@
 "Event 1" :[
    {
     "ChannelName" : "Hindi Source",
-    "ChannelUrl" : "http://iframe.crik.live/star-1/1.html",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/1.html",
     "EventName" : "IPL",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
@@ -61,14 +61,14 @@
   },
    {
     "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/1.html",
     "EventName" : "IPL",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please tap on Play Button"
   },
    {
     "ChannelName" : "Source 2",
-    "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/1.html",
     "EventName" : "IPL",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please tap on Play Button"
@@ -85,7 +85,7 @@
  "Star Sports" :[
    {
     "ChannelName" : "Source 2",
-    "ChannelUrl" : "http://iframe.crik.live/star-sports/1.html",
+    "ChannelUrl" : "https://iframe.crik.live/star-sports/1.html",
     "EventName" : "Star Sports",
     "ImageUrl" : "file:///android_asset/img_2.png",
     "Toast" : "Please tap on Play Button"
@@ -102,7 +102,7 @@
   "Star Sports Hindi" :[
  {
     "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://iframe.crik.live/star-1/1.html",
+    "ChannelUrl" : "https://iframe.crik.live/star-1/1.html",
     "EventName" : "Star Sports Hindi",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
@@ -113,28 +113,28 @@
 "Channel 1" : [  
    {
   "ChannelName" : "Source",
-  "ChannelUrl" : "http://iframe.crik.live/ptv-sports/1",
+  "ChannelUrl" : "https://iframe.crik.live/ptv-sports/1",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please tap on Play Button"
 },
  {
   "ChannelName" : "Source",
-  "ChannelUrl" : "http://player.crik.live/ptv-sports/3.html",
+  "ChannelUrl" : "https://player.crik.live/ptv-sports/3.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
 },
  {
   "ChannelName" : "Source",
-  "ChannelUrl" : "http://player.crik.live/ptv-sports/1",
+  "ChannelUrl" : "https://player.crik.live/ptv-sports/1",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_1.png",
   "Toast" : "Please tap on Play Button"
 },
 {
   "ChannelName" : "Source",
-  "ChannelUrl" : "http://player.crik.live/ptv-sports/4.html",
+  "ChannelUrl" : "https://player.crik.live/ptv-sports/4.html",
   "EventName" : "PTV Sports",
   "ImageUrl" : "file:///android_asset/img_2.png",
   "Toast" : "Please tap on Play Button"
@@ -144,14 +144,14 @@
 [
   {
     "ChannelName" : "Source",
-    "ChannelUrl" : "http://iframe.crik.live/ten-sports/1",
+    "ChannelUrl" : "https://iframe.crik.live/ten-sports/1",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
   },
   {
     "ChannelName" : "Source ",
-    "ChannelUrl" : "http://player.crik.live/ten-sports/2",
+    "ChannelUrl" : "https://player.crik.live/ten-sports/2",
     "EventName" : "Ten Sports",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
@@ -160,7 +160,7 @@
 
   "Sky Cricket Source 1" : {
     "ChannelName" : "Source 1",
-    "ChannelUrl" : "http://player.crik.live/sky-cricket/1.html",
+    "ChannelUrl" : "https://player.crik.live/sky-cricket/1.html",
     "EventName" : "Sky Cricket",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
@@ -168,7 +168,7 @@
   
   "Sky Cricket Source 2" : {
     "ChannelName" : "Source 3",
-    "ChannelUrl" : "http://cricfree.live/update/skycricket.php",
+    "ChannelUrl" : "https://cricfree.live/update/skycricket.php",
     "EventName" : "Sky Cricket",
     "ImageUrl" : "file:///android_asset/img_1.png",
     "Toast" : "Please tap on Play Button"
