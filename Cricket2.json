@@ -2,110 +2,90 @@
   {
     "events": [
       {
-        "endTimeStamp": 0,
         "name": "Event0",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
-    "endDate": "2021-12-25",
+    "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event1",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
-    "endDate": "2021-12-25",
+    "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event2",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event3",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event4",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
-        "startDate": "2021-12-14",
-     "startTime": "12:00",
-    "endDate": "2021-12-25",
-    "endTime": "12:00"
-      },
-      {
-        "endTimeStamp": 0,
-        "name": "Event5",
-        "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
-        "startDate": "2021-12-14",
-     "startTime": "12:00",
-    "endDate": "2021-12-20",
-    "endTime": "12:00"
-      },
-      {
-        "endTimeStamp": 0,
-        "name": "Event6",
-        "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
-        "startDate": "2021-12-14",
-     "startTime": "12:00",
-    "endDate": "2021-12-25",
-    "endTime": "12:00"
-      },
-      {
-        "endTimeStamp": 0,
-        "name": "Event7",
-        "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
-        "startDate": "2021-12-14",
-     "startTime": "12:00",
-    "endDate": "2021-12-25",
-    "endTime": "12:00"
-      },
-      {
-        "endTimeStamp": 0,
-        "name": "Event8",
-        "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
+        "name": "Event5",
+        "nextUrl": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
+        "startDate": "2021-12-14",
+     "startTime": "12:00",
+    "endDate": "2021-12-20",
+    "endTime": "12:00"
+      },
+      {
+        "name": "Event6",
+        "nextUrl": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
+        "startDate": "2021-12-14",
+     "startTime": "12:00",
+    "endDate": "2021-12-14",
+    "endTime": "12:00"
+      },
+      {
+        "name": "Event7",
+        "nextUrl": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
+        "startDate": "2021-12-14",
+     "startTime": "12:00",
+    "endDate": "2021-12-20",
+    "endTime": "12:00"
+      },
+      {
+        "name": "Event8",
+        "nextUrl": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
+        "startDate": "2021-12-14",
+     "startTime": "12:00",
+    "endDate": "2021-12-14",
+    "endTime": "12:00"
+      },
+      {
         "name": "Event9",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
@@ -117,10 +97,8 @@
   {
     "events": [
       {
-        "endTimeStamp": 0,
         "name": "Event0",
         "nextUrl": "",
-        "startTimeStamp": 0,
         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
@@ -128,10 +106,8 @@
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event1",
         "nextUrl": "",
-        "startTimeStamp": 0,
         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
@@ -139,10 +115,8 @@
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event2",
         "nextUrl": "",
-        "startTimeStamp": 0,
         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
@@ -150,10 +124,8 @@
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event3",
         "nextUrl": "",
-        "startTimeStamp": 0,
         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
@@ -161,10 +133,8 @@
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event4",
         "nextUrl": "",
-        "startTimeStamp": 0,
         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
@@ -172,22 +142,18 @@
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event5",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-21",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event6",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
@@ -199,77 +165,63 @@
   {
     "events": [
       {
-        "endTimeStamp": 0,
         "name": "Event3",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event4",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event5",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event6",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event7",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event8",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event9",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
@@ -281,110 +233,90 @@
   {
     "events": [
       {
-        "endTimeStamp": 0,
         "name": "Event0",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event1",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event2",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event3",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event4",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event5",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event6",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event7",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
-      {
-        "endTimeStamp": 0,
+      { 
         "name": "Event8",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event9",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
@@ -396,110 +328,90 @@
   {
     "events": [
       {
-        "endTimeStamp": 0,
         "name": "Event0",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event1",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event2",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event3",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event4",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event5",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event6",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event7",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event8",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-20",
     "endTime": "12:00"
       },
       {
-        "endTimeStamp": 0,
         "name": "Event9",
         "nextUrl": "",
-        "startTimeStamp": 0,
-        "url": "",
+         "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2021-12-14",
