@@ -13,20 +13,4 @@
     ],
 "title": "PTV Sports"
   }
-],
-[
-  {    
-    "events": [
-      {
-        "Name": "PTV Sports",
-        "Url": "http://bighra.tk/Channels.json",
-         "ImageUrl": "https://crik.live/pics/PTV-Sports.jpg",
-        "startDate": "2021-12-14",
-     "startTime": "12:00",
-    "endDate": "2050-12-29",
-    "endTime": "12:00"
-      }
-    ],
-"title": "BBL"
-  }
 ]
