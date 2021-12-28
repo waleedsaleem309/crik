@@ -3,7 +3,7 @@
     "events": [
       {
         "Name": "PTV Sports",
-        "Url": "http://bighra.tk/Channels.json",
+        "Url": "https://bighra.tk/Channels.json",
          "ImageUrl": "https://crik.live/pics/PTV-Sports.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
@@ -17,8 +17,8 @@
     "events": [
       {
         "Name": "BBL Live",
-        "Url": "http://bighra.tk/Channels.json",
-         "ImageUrl": "https://crik.live/pics/PTV-Sports.jpg",
+        "Url": "https://bighra.tk/Channels.json",
+         "ImageUrl": "https://assets.crik.live/Events/bbl.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
     "endDate": "2050-12-29",
@@ -31,7 +31,7 @@
     "events": [
       {
         "Name": "PTV Sports",
-        "Url": "http://bighra.tk/Channels.json",
+        "Url": "https://bighra.tk/Channels.json",
          "ImageUrl": "https://crik.live/pics/psl.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
