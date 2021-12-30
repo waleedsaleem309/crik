@@ -3,7 +3,7 @@
     "events": [
       {
         "Name": "BBL Live",
-        "Url": "https://bighra.tk/Channels.json",
+        "Url": "https://bighra.tk/Events/bbl.json",
          "ImageUrl": "https://assets.crik.live/Events/bbl.jpg",
         "startDate": "2021-12-14",
      "startTime": "12:00",
