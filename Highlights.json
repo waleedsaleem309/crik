@@ -1,18 +1,9 @@
 {
-   "T20 World Cup" :[
-   {
-    "ChannelName" : "Australia vs England",
-    "ChannelUrl" : "https://www.dailymotion.com/embed/video/x85d9ug?autoplay=1",
-    "EventName" : "T20 World Cup",
-    "ImageUrl" : "https://resources.pulse.icc-cricket.com/ICC/photo/2021/10/30/dd5a0d4f-68b4-4fd9-a051-162a2662ad65/yE99C9ar.jpg",
-    "Toast" : "Please UnMute the Channel from Bottom"
-  },
-  {
-    "ChannelName" : "Australia vs Bangladesh",
-    "ChannelUrl" : "https://www.dailymotion.com/embed/video/x85d9qs?autoplay=1",
-    "EventName" : "Star Sports",
-    "ImageUrl" : "https://resources.pulse.icc-cricket.com/ICC/photo/2021/11/04/327654e7-8aeb-43ee-87b7-dd85e2b3ae97/3jZMhc4c.jpg",
-    "Toast" : "Please close the ad"
+   "HighLights": [
+{
+    "EventImage" : "http://assets.crik.live/Events/bbl.jpg",
+    "EventName" : "BBL",
+    "Url" : "https://bighra.tk/Events/bbl.json"
   }
 ]
 }
