@@ -17,6 +17,21 @@
   {    
     "events": [
       {
+    "Name": "Ten Sports",
+    "Url": "https://bighra.tk/Channels.json",
+    "ImageUrl": "http://crik.live/pics/Ten-Sports.jpg",
+    "startDate": "2021-12-14",
+    "startTime": "12:00",
+    "EventName": "Ten Sports",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+      }
+    ],
+"title": "PTV Sports"
+  },
+  {    
+    "events": [
+      {
         "Name": "BBL Live",
         "Url": "https://bighra.tk/Events/bbl.json",
          "ImageUrl": "https://assets.crik.live/Events/bbl.jpg",
