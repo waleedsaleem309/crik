@@ -13,5 +13,50 @@
       }
     ],
 "title": "BBL"
+  },
+  {    
+    "events": [
+      {
+    "Name": "PTV Sports",
+    "Url": "https://bighra.tk/Channels.json",
+    "ImageUrl": "https://crik.live/pics/PTV-Sports.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "PTV Sports",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+      }
+    ],
+"title": "PTV Sports"
+  },
+  {    
+    "events": [
+      {
+    "Name": "Ten Sports",
+    "Url": "https://bighra.tk/Channels.json",
+    "ImageUrl": "http://crik.live/pics/Ten-Sports.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "Ten Sports",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+      }
+    ],
+"title": "Ten Sports"
+  },
+  {    
+    "events": [
+      {
+    "Name": "A Sports",
+    "Url": "https://bighra.tk/Channels.json",
+    "ImageUrl": "https://crik.live/pics/a-sports.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "A Sports",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+      }
+    ],
+"title": "Ten Sports"
   }
 ]
