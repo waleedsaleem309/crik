@@ -82,7 +82,11 @@
   
 ],
    "PTV Sports": [
-  
+  {
+    "EventImage" : "https://assets.crik.live/Events/bbl/12th.jpg",
+    "EventName" : "BBL Live",
+    "Url" : "https://bighra.tk/Channels.json"
+  },
   {
     "EventImage" : "file:///android_asset/log.png",
     "EventName" : "PTV Sports",
