@@ -85,7 +85,7 @@
   {
     "EventImage" : "https://assets.crik.live/Events/bbl.jpg",
     "EventName" : "BBL Live",
-    "Url" : "https://bighra.tk/Channels.json"
+    "Url" : "https://bighra.tk/Events/bbl.json"
   },
   {
     "EventImage" : "file:///android_asset/log.png",
@@ -109,7 +109,11 @@
 ],
 
   "Ten Sports": [
-
+ {
+    "EventImage" : "https://assets.crik.live/Events/bbl.jpg",
+    "EventName" : "BBL Live",
+    "Url" : "https://bighra.tk/Events/bbl.json"
+  },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Ten Sports",
