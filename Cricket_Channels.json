@@ -832,12 +832,12 @@
     {    
     "events": [
       {
-        "Name": "PTV Sports",
-        "Url": "https://bighra.tk/Channels.json",
-         "ImageUrl": "https://crik.live/pics/psl.jpg",
+        "Name": "U19 World Cup",
+        "Url": "https://bighra.tk/Events/u19.json",
+         "ImageUrl": "https://assets.crik.live/Events/u19/1.jpg",
     "startDate": "2022-1-1",
      "startTime": "12:00",
-     "EventName": "PTV Sports",
+     "EventName": "U19",
     "endDate": "2050-12-29",
     "endTime": "12:00"
       }
