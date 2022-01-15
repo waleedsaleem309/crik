@@ -6,18 +6,18 @@
         "nextUrl": "",
          "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2022-01-01",
-     "startTime": "12:00",
+     "startTime": "00:00",
     "endDate": "2025-12-29",
-    "endTime": "12:00"
+    "endTime": "00:00"
       },
       {
         "name": "Event1",
         "nextUrl": "",
          "url": "https://assets.crik.live/Events/bbl/12th.jpg",
         "startDate": "2022-01-01",
-     "startTime": "12:00",
+     "startTime": "00:00",
     "endDate": "2025-12-26",
-    "endTime": "12:00"
+    "endTime": "00:00"
       },
       {
         "name": "Event2",
