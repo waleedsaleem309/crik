@@ -1,4 +1,4 @@
-{"LV" : "17",
+{"LV" : "25",
 "APK" : "https://apps.crik.live/ptv.apk", 
 "Store" : "https://appgallery.huawei.com/app/C104801089",
 "Samsung" : "https://samsung.com",
@@ -10,4 +10,11 @@
 "ADS-17" : "true",
 "ADS-18" : "true",
 "ADS-19" : "true",
+"ADS-20" : "true",
+"ADS-21" : "true",
+"ADS-22" : "true",
+"ADS-23" : "true",
+"ADS-24" : "true",
+"ADS-25" : "true",
+"Library" : "3",
 "Cancelable" : "true"}

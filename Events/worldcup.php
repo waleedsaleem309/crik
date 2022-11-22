@@ -1,4 +1,5 @@
-[
+<?php
+$World =  '
       {
     "Name": "Pakistan vs England",
     "Url": "https://bighra.crik.live/Events/t20.json",
@@ -9,4 +10,29 @@
     "endDate": "2022-11-13",
     "endTime": "23:00"
       },
-      ]
+      ';
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+?>

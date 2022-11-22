@@ -1,39 +1,44 @@
 {
 
 "Cricket": [
-{
-    "EventImage" : "http://crik.live/pics/t20.png",
-    "EventName" : "T20 World Cup",
-    "Url" : "https://bighra.tk/Channels.json"
+    {
+    "EventImage" : "https://assets.crik.live/Events/psl.jpg",
+    "EventName" : "PSL 7",
+    "Url" : "https://bighra.crik.live/Events/psl.json"
   },
   {
-    "EventImage" : "file:///android_asset/cricket.png",
+    "EventImage" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "EventName" : "PTV Sports",
-    "Url" : "https://bighra.tk/Channels.json"
+    "Url" : "https://bighra.crik.live/Channels.json"
   },
 {
-    "EventImage" : "file:///android_asset/cricket.png",
+    "EventImage" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "EventName" : "Ten Sports",
-  "Url" : "https://bighra.tk/Channels.json"
+  "Url" : "https://bighra.crik.live/Channels.json"
+  },
+  {
+    "EventImage" : "https://assets.crik.live/Channels/a-sports.jpg",
+    "EventName" : "A Sports",
+  "Url" : "https://bighra.crik.live/Channels/a-sports.json"
   }
   
 ],
   "Star": [
 
     {
-    "EventImage" : "file:///android_asset/T20.png",
-    "EventName" : "T20 World Cup",
-    "Url" : "https://bighra.tk/Channels.json"
+    "EventImage" : "https://assets.crik.live/Events/psl.jpg",
+    "EventName" : "PSL 7",
+    "Url" : "https://bighra.crik.live/Events/psl.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Star Sports",
-    "Url" : "https://bighra.tk/Channels.json"
+    "Url" : "https://bighra.crik.live/Channels.json"
   },
   {
     "EventImage" : "file:///android_asset/cricket.png",
     "EventName" : "Star Sports Hindi",
-    "Url" : "https://bighra.tk/Channels.json"
+    "Url" : "https://bighra.crik.live/Channels.json"
   }
   
 ]

@@ -1,8 +1,7 @@
 <?php
-include '../Channels/asia-cup.php';
+include 'worldcup.php';
 $IPL =  '{    
-    "events": [ ' . $Asia . ',' .
- '{
+    "events": [ ' . $IND . '{
     "Name": "Star Sports",
     "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
@@ -25,7 +24,7 @@ $IPL =  '{
       ],
 "title": "IPL"
   }';
-  $IPL1 = '[' . $IPL . ']';
+  $IPL1 = '[' . $World . ']';
     file_put_contents('ipl.json', $IPL1);
 ?>
 

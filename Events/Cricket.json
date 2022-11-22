@@ -1,90 +1,36 @@
-[{    
-    "events": [
+[
 {
-"Name": "India vs Sri Lanka",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/9.jpg",
-"startDate": "2022-9-6",
-"startTime": "12:00",
-"EventName": "Asia Cup",
-"endDate": "2022-9-7",
-"endTime": "12:00"
-},
+    "events" : [
 {
-"Name": "India vs Sri Lanka",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/9.jpg",
-"startDate": "2022-09-06",
+"Name": "IND vs NZ",
+"Url": "https://bighra.crik.live/Events/ind.json",
+"ImageUrl": "https://assets.crik.live/Events/ind-nz.jpg",
+"startDate": "2022-11-18",
 "startTime": "00:01",
-"EventName": "Asia Cup",
-"endDate": "2022-09-06",
+"EventName": "IND vs NZ",
+"endDate": "2022-11-18",
 "endTime": "23:59"
 },
 {
-"Name": "Pakistan vs Afghanistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/10.jpg",
-"startDate": "2022-9-7",
-"startTime": "12:00",
-"EventName": "Asia Cup",
-"endDate": "2022-9-8",
-"endTime": "12:00"
-},
-{
-"Name": "Pakistan vs Afghanistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/10.jpg",
-"startDate": "2022-09-07",
+"Name": "IND vs NZ",
+"Url": "https://bighra.crik.live/Events/ind.json",
+"ImageUrl": "https://assets.crik.live/Events/ind-nz.jpg",
+"startDate": "2022-11-20",
 "startTime": "00:01",
-"EventName": "Asia Cup",
-"endDate": "2022-09-07",
+"EventName": "IND vs NZ",
+"endDate": "2022-11-20",
 "endTime": "23:59"
 },
 {
-"Name": "India vs Afghanistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/11.jpg",
-"startDate": "2022-9-8",
-"startTime": "12:00",
-"EventName": "Asia Cup",
-"endDate": "2022-9-9",
-"endTime": "12:00"
-},
-{
-"Name": "India vs Afghanistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/11.jpg",
-"startDate": "2022-09-08",
+"Name": "IND vs NZ",
+"Url": "https://bighra.crik.live/Events/ind.json",
+"ImageUrl": "https://assets.crik.live/Events/ind-nz.jpg",
+"startDate": "2022-11-22",
 "startTime": "00:01",
-"EventName": "Asia Cup",
-"endDate": "2022-09-08",
+"EventName": "IND vs NZ",
+"endDate": "2022-11-22",
 "endTime": "23:59"
-},
-{
-"Name": "Sri Lanka vs Pakistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/12.jpg",
-"startDate": "2022-9-9",
-"startTime": "12:00",
-"EventName": "Asia Cup",
-"endDate": "2022-9-10",
-"endTime": "12:00"
-},
-{
-"Name": "Sri Lanka vs Pakistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/12.jpg",
-"startDate": "2022-09-09",
-"startTime": "00:01",
-"EventName": "Asia Cup",
-"endDate": "2022-09-09",
-"endTime": "23:59"
-}
-],
-"title": "Asia Cup"
-  },{ 
-"events": [ 
-{
+},{
     "Name": "PTV Sports",
     "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
@@ -93,26 +39,7 @@
     "EventName": "PTV Sports",
     "endDate": "2050-12-29",
     "endTime": "12:00"
-    }
-    ],
-    "title": "PTV Sports"
-    },{ 
-"events": [ 
-{
-    "Name": "A Sports",
-    "Url": "https://bighra.crik.live/Channels/a-sports.json",
-    "ImageUrl": "https://assets.crik.live/Channels/a-sports.jpg",
-    "startDate": "2022-1-1",
-    "startTime": "12:00",
-    "EventName": "A Sports",
-    "endDate": "2050-12-29",
-    "endTime": "12:00"
-    }
-    ],
-    "title": "A Sports"
     },{
-"events":[ 
-{
     "Name": "Ten Sports",
     "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
@@ -121,12 +48,7 @@
     "EventName": "Ten Sports",
     "endDate": "2050-12-19",
     "endTime": "12:00"
-    }
-    ],
-    "title": "Ten Sports"
-    },{ 
-"events": [ 
-
+    },
 {
     "Name": "Star Sports",
     "Url": "https://bighra.crik.live/Channels/star.json",
@@ -146,7 +68,7 @@
     "EventName": "Star Sports Hindi",
     "endDate": "2050-12-29",
     "endTime": "12:00"
+    }],
+    "title" : "Cricket"
     }
-    ],
-    "title": "Star Sports"
-    }]
+]

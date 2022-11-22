@@ -2,15 +2,15 @@
 
   
 "PTV": [
-      {
-    "EventImage" : "https://crik.live/pics/t20.png",
-    "EventName" : "T20 World Cup",
-    "Url" : "https://bighra.tk/Channels.json"
+    {
+    "EventImage" : "https://assets.crik.live/Events/psl.jpg",
+    "EventName" : "PSL 7",
+    "Url" : "https://bighra.crik.live/Events/psl.json"
   },
   {
-    "EventImage" : "file:///android_asset/cricket.png",
+    "EventImage" : "file:///android_asset/log.png",
     "EventName" : "PTV Sports",
-    "Url" : "https://bighra.tk/Channels.json"
+    "Url" : "https://bighra.crik.live/Channels.json"
   }
   ]
 }

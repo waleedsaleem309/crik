@@ -1,7 +1,12 @@
-{"LV" : "15",
+{"LV" : "20",
 "APK" : "http://apps.crik.live/ten.apk", 
 "Store" : "https://appgallery.huawei.com/app/C104801089",
 "Samsung" : "https://samsung.com",
 "ADS-15" : "true",
 "ADS-16" : "true",
+"ADS-17" : "true",
+"ADS-18" : "true",
+"ADS-19" : "true",
+"ADS-20" : "true",
+"Library" : "3",
 "Cancelable" : "true"}

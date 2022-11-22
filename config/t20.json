@@ -1,8 +1,12 @@
-{"LV" : "6",
+{"LV" : "11",
 "APK" : "http://apps.crik.live/t20.apk", 
 "Store" : "https://yahoo.com",
 "Ads" : "true",
 "ADS-6" : "true",
 "ADS-7" : "true",
-"ADS-8" : "false",
+"ADS-8" : "true",
+"ADS-9" : "true",
+"ADS-10" : "true",
+"ADS-11" : "true",
+
 "Cancelable" : "true"}

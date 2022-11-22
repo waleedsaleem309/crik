@@ -1,4 +1,4 @@
-{"LV" : "11",
+{"LV" : "17",
 "APK" : "https://apps.crik.live/cricket-hd.apk", 
 "Store" : "https://yahoo.com",
 "Ads" : "true",
@@ -6,4 +6,12 @@
 "ADS-10" : "true",
 "ADS-11" : "true",
 "ADS-12" : "true",
+"ADS-13" : "true",
+"ADS-14" : "true",
+"Layout-14" : "2",
+"ADS-15" : "true",
+"ADS-16" : "true",
+"Layout-16" : "2",
+"ADS-17" : "true",
+"Library" : "3",
 "Cancelable" : "true"}
